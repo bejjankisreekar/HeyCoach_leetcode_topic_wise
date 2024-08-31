@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2926e48c-8c64-4350-98f3-57b99a1e381a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/heycoach_problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise" beforeDir="false" afterPath="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,53 +53,74 @@
     &quot;Python tests.Python tests for build_array_from_permutations_1920.TestSolution.test_case_4.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for running_sum_of_1d_array_1480.TestSolution.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in build_array_from_permutations_1920.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.implementation_insert_trie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search_tries.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for running_sum_of_1d_array_1480.TestSolution">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github_projects\DSA_topicwise\Hey_coach\heycoach_problems\HeyCoach_leetcode_topic_wise\Problems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.search_tries">
+    <configuration name="implementation_insert_trie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="heycoach_problems" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Topic_wise/Tries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Topic_wise/Tries/implementation_insert_trie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_tries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="heycoach_problems" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Topic_wise/Tries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Topic_wise/Tries/search_tries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for build_array_from_permutations_1920.TestSolution" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="heycoach_problems" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Arrays/1_simple_array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Problems/Arrays/1_simple_array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;build_array_from_permutations_1920.TestSolution&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for build_array_from_permutations_1920.TestSolution.test_case_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="heycoach_problems" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Arrays/1_simple_array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;build_array_from_permutations_1920.TestSolution.test_case_1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for build_array_from_permutations_1920.TestSolution.test_case_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="heycoach_problems" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Arrays/1_simple_array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;build_array_from_permutations_1920.TestSolution.test_case_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -113,7 +130,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Arrays/1_simple_array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Problems/Arrays/1_simple_array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -128,7 +145,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Arrays/2_pefix_sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Problems/Arrays/2_pefix_sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -139,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.search_tries" />
+        <item itemvalue="Python.implementation_insert_trie" />
         <item itemvalue="Python tests.Python tests for running_sum_of_1d_array_1480.TestSolution" />
         <item itemvalue="Python tests.Python tests for build_array_from_permutations_1920.TestSolution" />
         <item itemvalue="Python tests.Python tests for build_array_from_permutations_1920.TestSolution.test_case_3" />
-        <item itemvalue="Python tests.Python tests for build_array_from_permutations_1920.TestSolution.test_case_2" />
-        <item itemvalue="Python tests.Python tests for build_array_from_permutations_1920.TestSolution.test_case_1" />
       </list>
     </recent_temporary>
   </component>
