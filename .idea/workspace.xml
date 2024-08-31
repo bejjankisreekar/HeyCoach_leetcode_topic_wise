@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2926e48c-8c64-4350-98f3-57b99a1e381a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise" beforeDir="false" afterPath="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise" afterDir="false" />
-    </list>
+    <list default="true" id="2926e48c-8c64-4350-98f3-57b99a1e381a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/leetcode_topic_wise_problems" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -115,7 +112,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Problems/Arrays/1_simple_array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_topic_wise_problems/Problems/Arrays/1_simple_array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -130,7 +127,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Problems/Arrays/1_simple_array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_topic_wise_problems/Problems/Arrays/1_simple_array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -145,7 +142,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeyCoach_leetcode_topic_wise/Problems/Arrays/2_pefix_sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_topic_wise_problems/Problems/Arrays/2_pefix_sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
