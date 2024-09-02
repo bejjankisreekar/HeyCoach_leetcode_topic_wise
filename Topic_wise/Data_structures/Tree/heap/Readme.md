@@ -1,5 +1,7 @@
 # Heap in Data Structures
-- A heap is a specialized tree-based data structure that satisfies the heap property. There are two main types of heaps: Max Heap and Min Heap. The heap is used in various applications, including priority queues, graph algorithms, and memory management.
+- A heap is a specialized tree-based data structure that satisfies the heap property. 
+- There are two main types of heaps: **Max Heap** and **Min Heap**. 
+- The heap is used in various applications, including priority queues, graph algorithms, and memory management.
 
 ## 1. Heap Property
 - Max Heap: In a max heap, the value of each node is greater than or equal to the values of its children. The largest element is at the root of the tree.
